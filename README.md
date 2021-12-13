@@ -7,6 +7,8 @@ Run below spring boot project and use below mentioned url on browser or postman
 02-item-service
 
 http://localhost:8181/itemService/item/watch
+
+
 http://localhost:9191/orderService/order/watch
 
 once you test these are communicate properly then you can down the the itemService server and then 
